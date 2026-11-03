@@ -6,3 +6,6 @@ Day 1:
 
 Day 2:
 [Simple Calculator](Simple_Calculator.py) ~10min
+
+Day 3:
+[Hacker Terminal V1](Hacker_Terminal_1) ~25min
