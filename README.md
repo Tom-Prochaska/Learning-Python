@@ -8,4 +8,4 @@ Day 2:
 [Simple Calculator](Simple_Calculator.py) ~10min
 
 Day 3:
-[Hacker Terminal V1](Hacker_Terminal_1) ~25min
+[Hacker Terminal V1](Hacker_Terminal_1.py) ~25min
